@@ -7,6 +7,9 @@ export const colors = {
 
 //  Data for categories filter
 
+
+// making this change
+
 export const categories = [
 	{
 		id: "01",
@@ -38,6 +41,10 @@ export const categories = [
 	},
 	{
 		id: "08",
+		category: "Seafood",
+	},
+	{
+		id: "09",
 		category: "Seafood",
 	},
 ];
