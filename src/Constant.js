@@ -7,6 +7,7 @@ export const colors = {
 
 //  Data for categories filter
 
+// adding new commit 
 
 // making this change
 
